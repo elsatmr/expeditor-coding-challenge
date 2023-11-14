@@ -1,0 +1,27 @@
+Household directory
+Household: 123 Main St, Seattle, WA
+Household Size: 4
+Occupants over 18: 
+Smith Alice, 45, 123 Main St, Seattle, WA
+Smith Dave, 43, 123 Main St, Seattle, WA
+
+Household: 234 2nd Ave, Tacoma, WA
+Household Size: 2
+Occupants over 18: 
+Smith Eve, 25, 234 2nd Ave, Tacoma, WA
+Williams Bob, 26, 234 2nd Ave, Tacoma, WA
+
+Household: 345 3rd Blvd, Apt 200, Seattle, WA
+Household Size: 2
+Occupants over 18: 
+
+Household: 234 2nd Ave, Seattle, WA
+Household Size: 1
+Occupants over 18: 
+Johnson Carol, 67, 234 2nd Ave, Seattle, WA
+
+Household: 234 2nd Ave, Tacoma, FL
+Household Size: 1
+Occupants over 18: 
+Jones Frank, 23, 234 2nd Ave, Tacoma, FL
+
